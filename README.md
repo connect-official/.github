@@ -1,3 +1,0 @@
-# profile
-
-This is Connect.
