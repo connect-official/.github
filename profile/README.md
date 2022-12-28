@@ -16,12 +16,20 @@
   &nbsp;<br>
   &nbsp;<br>
 
- <h1 align="center">About</h1>
+ <h1 align="center">Who we are</h1>
  <div align="right">
-    <img src="https://github.com/connect-official/.github/blob/main/Questions-bro.svg" width="350" height="350" align="left"/> <p>
+    <img src="https://github.com/connect-official/.github/blob/main/Questions-bro.svg" width="350" height="350" align="left"/>
+    <p>
+  &nbsp;<br>
+  &nbsp;<br>
+  &nbsp;<br>
+  &nbsp;<br>
+  &nbsp;<br>
+  &nbsp;<br>
     This is the Project Connect. <br>
     We have made it our mission to develop quality software without advertising or tracking.
-    The goal is to develop programmes that do not yet exist in this form.</p>
+    The goal is to develop programmes that do not yet exist in this form.
+    </p>
         
   </div>
 
