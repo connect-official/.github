@@ -27,8 +27,8 @@
   &nbsp;<br>
   &nbsp;<br>
     This is the Project Connect. <br>
-    We have made it our mission to develop quality software without advertising or tracking.
-    The goal is to develop programmes that do not yet exist in this form.
+    The mission of Connect is to research and explore future oriented ideas.<br>
+    Our goal is to conduct research in a variety of fields in physics and IT.
     </p>
         
   </div>
