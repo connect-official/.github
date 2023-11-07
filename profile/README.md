@@ -5,9 +5,9 @@
 
 <hr>
 
-<div align="center">
+<!--<div align="center">
  <img src="https://github.com/connect-official/.github/blob/main/BannerV2.png" height="500" />
-</div>
+</div>-->
 
   &nbsp;<br>
   &nbsp;<br>
